@@ -17,6 +17,6 @@ public class ModItems {
 	public static final Item DORITOS = new ItemCustomFood("doritos", 4, false);
 	public static final Item PLASTIC_BAG = new FoodBase("plastic_bag");
 	public static final Item CHEESE = new ItemCustomFood("cheese",3,false);
-	
+	public static final Item SPINACH = new FoodBase("spinach");
 
 }

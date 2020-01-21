@@ -1,3 +1,6 @@
 //items
-item.shitos.name=shitos
+item.shitos.name=Shitos
+item.plastic_bag.name=Plastic Bag
+item.spinach.name=Spinach
+item.doritos.name=Doritos
 //blocks
