@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fm",
+  "name": "Yummy Stuff",
+  "description": "Adds very yum foods",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aboudeh", "Omaritto"],
+  "credits": "ANODT",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
