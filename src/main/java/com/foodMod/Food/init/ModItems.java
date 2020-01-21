@@ -18,5 +18,11 @@ public class ModItems {
 	public static final Item PLASTIC_BAG = new FoodBase("plastic_bag");
 	public static final Item CHEESE = new ItemCustomFood("cheese",3,false);
 	public static final Item SPINACH = new FoodBase("spinach");
+	public static final Item PANCAKE = new ItemCustomFood("pancake", 15, false);
+	public static final Item SALT = new FoodBase("salt");
+	public static final Item DONUT = new ItemCustomFood("donut", 9, false);
+	public static final Item BACON = new ItemCustomFood("bacon", 8, true);
+	public static final Item FRIEDEGGS = new ItemCustomFood("fried_egg", 6, false);
+	
 
 }
